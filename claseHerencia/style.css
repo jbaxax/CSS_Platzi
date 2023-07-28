@@ -3,5 +3,6 @@ html{
     font-family: verdana;
 }
 h1{
-    font-size: inherit; /* hereda tamañan de fuente del  */
+    
+    font-size: inherit; /* hereda tamañan de fuente del padre */
 }
